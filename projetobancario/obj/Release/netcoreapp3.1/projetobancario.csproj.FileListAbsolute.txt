@@ -1,0 +1,14 @@
+C:\Users\monitora\source\repos\projetobancario\projetobancario\bin\Release\netcoreapp3.1\projetobancario.exe
+C:\Users\monitora\source\repos\projetobancario\projetobancario\bin\Release\netcoreapp3.1\projetobancario.deps.json
+C:\Users\monitora\source\repos\projetobancario\projetobancario\bin\Release\netcoreapp3.1\projetobancario.runtimeconfig.json
+C:\Users\monitora\source\repos\projetobancario\projetobancario\bin\Release\netcoreapp3.1\projetobancario.runtimeconfig.dev.json
+C:\Users\monitora\source\repos\projetobancario\projetobancario\bin\Release\netcoreapp3.1\projetobancario.dll
+C:\Users\monitora\source\repos\projetobancario\projetobancario\bin\Release\netcoreapp3.1\projetobancario.pdb
+C:\Users\monitora\source\repos\projetobancario\projetobancario\obj\Release\netcoreapp3.1\projetobancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monitora\source\repos\projetobancario\projetobancario\obj\Release\netcoreapp3.1\projetobancario.AssemblyInfoInputs.cache
+C:\Users\monitora\source\repos\projetobancario\projetobancario\obj\Release\netcoreapp3.1\projetobancario.AssemblyInfo.cs
+C:\Users\monitora\source\repos\projetobancario\projetobancario\obj\Release\netcoreapp3.1\projetobancario.csproj.CoreCompileInputs.cache
+C:\Users\monitora\source\repos\projetobancario\projetobancario\obj\Release\netcoreapp3.1\projetobancario.dll
+C:\Users\monitora\source\repos\projetobancario\projetobancario\obj\Release\netcoreapp3.1\projetobancario.pdb
+C:\Users\monitora\source\repos\projetobancario\projetobancario\obj\Release\netcoreapp3.1\projetobancario.genruntimeconfig.cache
+C:\Users\monitora\source\repos\projetobancario\projetobancario\obj\Release\netcoreapp3.1\projetobancario.csproj.AssemblyReference.cache

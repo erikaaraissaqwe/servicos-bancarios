@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\monitora\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\monitora\\.nuget\\packages",
+      "F:\\development\\VisualStudio\\sdks\\NuGetPackages"
+    ]
+  }
+}
